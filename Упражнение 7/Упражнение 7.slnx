@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Упражнение 7.2/Упражнение 7.2.vcxproj" Id="86c86857-8ee9-4e1e-b215-81595770c37e" />
+  <Project Path="Упражнение 7.3/Упражнение 7.3.vcxproj" Id="bd5bd14d-54f0-4cbe-ba5f-c03daacbc269" />
+  <Project Path="Упражнение 7.4/Упражнение 7.4.vcxproj" Id="74f1dc08-8599-4aa5-9bbb-d60db33056e6" />
+  <Project Path="Упражнение 7.5/Упражнение 7.5.vcxproj" Id="38486026-802e-4acf-b5a5-af281f635cda" />
+  <Project Path="Упражнение 7.6/Упражнение 7.6.vcxproj" Id="4d25697f-69e2-42a0-a1a5-01c7122ae51a" />
+  <Project Path="Упражнение 7/Упражнение 7.vcxproj" Id="cb8885da-2d78-4772-9e5a-f0311fd1fe8c" />
+</Solution>
