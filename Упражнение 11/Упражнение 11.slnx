@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Упражнение 11.2/Упражнение 11.2.vcxproj" />
+  <Project Path="Упражнение 11.3/Упражнение 11.3.vcxproj" />
+  <Project Path="Упражнение 11/Упражнение 11.vcxproj" />
+</Solution>
